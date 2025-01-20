@@ -1,6 +1,6 @@
 # Brendan Coen
 
-I've been taking a mile wide, inch deep approach to getting back into tech. Realized I didn't know how CIDR notation worked, so I figured it out and in the process of going down the rabbit hole, earned myself the CompTIA Network+ and Security+ certs. 
+I've been taking a mile wide, inch deep approach to getting back into tech. Realized I didn't know how CIDR notation worked, so I figured it out and in the process of going down the rabbit hole, earned myself the CompTIA Network+ (Dec. '24) and Security+ (Jan. '25) certs. 
 
 Otherise, I'm spending my time working on tuning my Python and C++ skills until some other avenue grabs my attention.
 
