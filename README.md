@@ -7,3 +7,5 @@ Otherise, I'm spending my time working on tuning my Python and C++ skills until 
 After 20 years in real estate, I figure now's the time to make a change. I'm not above working help desk if that gets my foot in the door.
 
 For more info on me, check me out at [LinkedIn](https://www.linkedin.com/in/brendancoen/).
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=KenShabby)
